@@ -1,0 +1,10 @@
+{
+  "jobId": 1,
+  "jobTitle": "Test job",
+  "jobDesc": "A Good Job",
+  "jobMinSalary": "15000",
+  "jobMaxSalary": "150000",
+  "jobLocation": "Kathmandu"
+}
+
+
